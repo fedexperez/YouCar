@@ -1,6 +1,6 @@
-# youcar
+# YouCar
 
-A new Flutter project.
+A new Flutter project. Coded by Federico Pérez Morales.
 
 ## Getting Started
 
